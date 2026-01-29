@@ -3,6 +3,7 @@
 Also published on `keyserver.ubuntu.com`, `keys.openpgp.org` and `pgp.mit.edu`.
 
 Key ID: `2F307015594000AE203DCB1906B9F758EC9B3D61`
+https://keys.openpgp.org/search?q=allan@allancao.ca
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -21,6 +22,7 @@ VmUQ+t6Z/gD7B5QAEwt6Y6R1+RKf3fbWYy9YZzXE/94EV3+EDFBruwk=
 ```
 
 Key ID: `0xE72A0B68814D7BF1`
+https://keys.openpgp.org/search?q=allan@fidelistech.ca
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: A10A FF6E 403C 3024 5CCE  7962 E72A 0B68 814D 7BF1
